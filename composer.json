@@ -1,0 +1,14 @@
+{
+    "name"       : "justMoritz/mobile-responsive-spacers",
+    "type"       : "wordpress-plugin",
+    "description": "Mobile Responsive Spacers",
+    "require"    : {
+        "composer/installers": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Moritz Zimmer",
+            "email": "moritzzimmer@moritzzimmer.com"
+        }
+    ]
+}
